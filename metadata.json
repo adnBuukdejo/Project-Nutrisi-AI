@@ -1,0 +1,6 @@
+{
+  "name": "NutriBot - Detektif Nutrisi & Sahabat Tumbuh Kembang",
+  "description": "Detektif nutrisi multimodal cerdas untuk anak & remaja SMP. Deteksi foto makanan dengan Gemini Vision AI, hitung kalori & nutrisi dengan analogi superhero, grafik tumbuh kembang, dan gamifikasi XP!",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
